@@ -1,0 +1,11 @@
+c:\users\utente\source\repos\ManualConnectedBowl\ManualConnectedBowl\bin\Debug\netcoreapp2.0\MessagesReader.deps.json
+c:\users\utente\source\repos\ManualConnectedBowl\ManualConnectedBowl\bin\Debug\netcoreapp2.0\MessagesReader.runtimeconfig.json
+c:\users\utente\source\repos\ManualConnectedBowl\ManualConnectedBowl\bin\Debug\netcoreapp2.0\MessagesReader.runtimeconfig.dev.json
+c:\users\utente\source\repos\ManualConnectedBowl\ManualConnectedBowl\bin\Debug\netcoreapp2.0\MessagesReader.dll
+c:\users\utente\source\repos\ManualConnectedBowl\ManualConnectedBowl\bin\Debug\netcoreapp2.0\MessagesReader.pdb
+c:\users\utente\source\repos\ManualConnectedBowl\ManualConnectedBowl\obj\Debug\netcoreapp2.0\MessagesReader.csprojAssemblyReference.cache
+c:\users\utente\source\repos\ManualConnectedBowl\ManualConnectedBowl\obj\Debug\netcoreapp2.0\MessagesReader.csproj.CoreCompileInputs.cache
+c:\users\utente\source\repos\ManualConnectedBowl\ManualConnectedBowl\obj\Debug\netcoreapp2.0\MessagesReader.AssemblyInfoInputs.cache
+c:\users\utente\source\repos\ManualConnectedBowl\ManualConnectedBowl\obj\Debug\netcoreapp2.0\MessagesReader.AssemblyInfo.cs
+c:\users\utente\source\repos\ManualConnectedBowl\ManualConnectedBowl\obj\Debug\netcoreapp2.0\MessagesReader.dll
+c:\users\utente\source\repos\ManualConnectedBowl\ManualConnectedBowl\obj\Debug\netcoreapp2.0\MessagesReader.pdb

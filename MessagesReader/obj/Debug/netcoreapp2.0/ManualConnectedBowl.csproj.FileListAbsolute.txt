@@ -1,0 +1,8 @@
+c:\users\utente\source\repos\ManualConnectedBowl\ManualConnectedBowl\bin\Debug\netcoreapp2.0\ManualConnectedBowl.deps.json
+c:\users\utente\source\repos\ManualConnectedBowl\ManualConnectedBowl\bin\Debug\netcoreapp2.0\ManualConnectedBowl.runtimeconfig.json
+c:\users\utente\source\repos\ManualConnectedBowl\ManualConnectedBowl\bin\Debug\netcoreapp2.0\ManualConnectedBowl.runtimeconfig.dev.json
+c:\users\utente\source\repos\ManualConnectedBowl\ManualConnectedBowl\bin\Debug\netcoreapp2.0\ManualConnectedBowl.dll
+c:\users\utente\source\repos\ManualConnectedBowl\ManualConnectedBowl\obj\Debug\netcoreapp2.0\ManualConnectedBowl.csprojAssemblyReference.cache
+c:\users\utente\source\repos\ManualConnectedBowl\ManualConnectedBowl\obj\Debug\netcoreapp2.0\ManualConnectedBowl.csproj.CoreCompileInputs.cache
+c:\users\utente\source\repos\ManualConnectedBowl\ManualConnectedBowl\obj\Debug\netcoreapp2.0\ManualConnectedBowl.AssemblyInfoInputs.cache
+c:\users\utente\source\repos\ManualConnectedBowl\ManualConnectedBowl\obj\Debug\netcoreapp2.0\ManualConnectedBowl.AssemblyInfo.cs

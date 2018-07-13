@@ -1,0 +1,11 @@
+c:\users\utente\source\repos\ManualConnectedBowl\SimulatedBowl\bin\Debug\netcoreapp2.0\SimulatedBowl.deps.json
+c:\users\utente\source\repos\ManualConnectedBowl\SimulatedBowl\bin\Debug\netcoreapp2.0\SimulatedBowl.runtimeconfig.json
+c:\users\utente\source\repos\ManualConnectedBowl\SimulatedBowl\bin\Debug\netcoreapp2.0\SimulatedBowl.runtimeconfig.dev.json
+c:\users\utente\source\repos\ManualConnectedBowl\SimulatedBowl\bin\Debug\netcoreapp2.0\SimulatedBowl.dll
+c:\users\utente\source\repos\ManualConnectedBowl\SimulatedBowl\obj\Debug\netcoreapp2.0\SimulatedBowl.csprojAssemblyReference.cache
+c:\users\utente\source\repos\ManualConnectedBowl\SimulatedBowl\obj\Debug\netcoreapp2.0\SimulatedBowl.csproj.CoreCompileInputs.cache
+c:\users\utente\source\repos\ManualConnectedBowl\SimulatedBowl\obj\Debug\netcoreapp2.0\SimulatedBowl.AssemblyInfoInputs.cache
+c:\users\utente\source\repos\ManualConnectedBowl\SimulatedBowl\obj\Debug\netcoreapp2.0\SimulatedBowl.AssemblyInfo.cs
+c:\users\utente\source\repos\ManualConnectedBowl\SimulatedBowl\bin\Debug\netcoreapp2.0\SimulatedBowl.pdb
+c:\users\utente\source\repos\ManualConnectedBowl\SimulatedBowl\obj\Debug\netcoreapp2.0\SimulatedBowl.dll
+c:\users\utente\source\repos\ManualConnectedBowl\SimulatedBowl\obj\Debug\netcoreapp2.0\SimulatedBowl.pdb

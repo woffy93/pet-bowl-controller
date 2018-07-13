@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessagesReader", "ManualConnectedBowl\MessagesReader.csproj", "{975E071C-B538-442D-A141-958EDBAF5CB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimulatedBowl", "SimulatedBowl\SimulatedBowl.csproj", "{C6D687CB-EC18-47E6-A039-035B4515A03D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{975E071C-B538-442D-A141-958EDBAF5CB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{975E071C-B538-442D-A141-958EDBAF5CB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{975E071C-B538-442D-A141-958EDBAF5CB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{975E071C-B538-442D-A141-958EDBAF5CB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6D687CB-EC18-47E6-A039-035B4515A03D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6D687CB-EC18-47E6-A039-035B4515A03D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6D687CB-EC18-47E6-A039-035B4515A03D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6D687CB-EC18-47E6-A039-035B4515A03D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3FCD799-5CAC-431D-9F7D-73D64A2AF31E}
+	EndGlobalSection
+EndGlobal
